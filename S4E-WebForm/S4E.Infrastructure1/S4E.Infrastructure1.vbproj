@@ -1,0 +1,18 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>S4E.Infrastructure</RootNamespace>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="5.2.2" />
+    <PackageReference Include="System.Configuration.ConfigurationManager" Version="9.0.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\S4E.Application\S4E.Application.vbproj" />
+    <ProjectReference Include="..\S4E.Domain\S4E.Domain.vbproj" />
+  </ItemGroup>
+
+</Project>

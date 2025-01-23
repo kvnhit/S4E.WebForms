@@ -1,0 +1,482 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+S4E-WebForm
+</name>
+</assembly>
+<members>
+<member name="T:S4E_WebForm.My.MyWebExtension">
+ <summary>
+ Módulo usado para definir as propriedades que estão disponíveis em My Namespace para projetos da web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:S4E_WebForm.My.MyWebExtension.Computer">
+ <summary>
+ Retorna informações sobre o computador host.
+ </summary>
+</member>
+<member name="P:S4E_WebForm.My.MyWebExtension.User">
+ <summary>
+ Retorna informações sobre o usuário atual da web.
+ </summary>
+</member>
+<member name="P:S4E_WebForm.My.MyWebExtension.Request">
+ <summary>
+ Retorna um objeto Request.
+ </summary>
+</member>
+<member name="P:S4E_WebForm.My.MyWebExtension.Response">
+ <summary>
+ Retorna um objeto Response.
+ </summary>
+</member>
+<member name="P:S4E_WebForm.My.MyWebExtension.Log">
+ <summary>
+ Retorna o objeto de log Asp.
+ </summary>
+</member>
+<member name="F:S4E_WebForm.About._lblId">
+<summary>
+lblId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._txtId">
+<summary>
+txtId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._txtName">
+<summary>
+txtName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._lblCpf">
+<summary>
+lblCpf control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._txtCpf">
+<summary>
+txtCpf control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._lblBirth">
+<summary>
+lblBirth control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._txtBirth">
+<summary>
+txtBirth control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._lblAvailableCompanies">
+<summary>
+lblAvailableCompanies control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._ListBox1">
+<summary>
+ListBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._btnRemove">
+<summary>
+btnRemove control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._lblSelectedCompanies">
+<summary>
+lblSelectedCompanies control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._ListBox2">
+<summary>
+ListBox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._lblFilter">
+<summary>
+lblFilter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._txtIdFilter">
+<summary>
+txtIdFilter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._btnIdFilter">
+<summary>
+btnIdFilter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._gridViewAssoc">
+<summary>
+gridViewAssoc control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._btnInsert">
+<summary>
+btnInsert control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._btnUpdate">
+<summary>
+btnUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.About._btnDelete">
+<summary>
+btnDelete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._lblId">
+<summary>
+lblId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._txtId">
+<summary>
+txtId control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._lblName">
+<summary>
+lblName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._txtName">
+<summary>
+txtName control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._lblCnpj">
+<summary>
+lblCnpj control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._txtCnpj">
+<summary>
+txtCnpj control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._lblAvailableAssociates">
+<summary>
+lblAvailableAssociates control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._ListBox1">
+<summary>
+ListBox1 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._btnAdd">
+<summary>
+btnAdd control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._btnRemove">
+<summary>
+btnRemove control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._lblSelectedAssociates">
+<summary>
+lblSelectedAssociates control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._ListBox2">
+<summary>
+ListBox2 control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._lblFilter">
+<summary>
+lblFilter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._txtIdFilter">
+<summary>
+txtIdFilter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._btnIdFilter">
+<summary>
+btnIdFilter control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._gridViewComp">
+<summary>
+gridViewComp control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._btnInsert">
+<summary>
+btnInsert control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._btnUpdate">
+<summary>
+btnUpdate control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Contact._btnDelete">
+<summary>
+btnDelete control.
+</summary>
+<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+<member name="F:S4E_WebForm._Default._lnk1">
+<summary>
+Controle lnk1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:S4E_WebForm._Default._lnk2">
+<summary>
+Controle lnk2.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.SiteMaster._MainContent">
+<summary>
+Controle MainContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo de designer a um arquivo code-behind.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Site_Mobile._Head1">
+<summary>
+controle Head1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Site_Mobile._HeadContent">
+<summary>
+Controle HeadContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Site_Mobile._form1">
+<summary>
+Controle form1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Site_Mobile._FeaturedContent">
+<summary>
+Controle FeaturedContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Site_Mobile._MainContent">
+<summary>
+Controle MainContent.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+<member name="F:S4E_WebForm.Site_Mobile._ViewSwitcher1">
+<summary>
+controle ViewSwitcher1.
+</summary>
+<remarks>
+Campo gerado automaticamente.
+Para modificar, mova a declaração de campo do arquivo do designer para o arquivo code-behind.
+</remarks>
+</member>
+</members>
+</doc>

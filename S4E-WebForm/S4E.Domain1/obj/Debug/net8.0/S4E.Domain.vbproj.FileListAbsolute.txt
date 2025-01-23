@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\bin\Debug\net8.0\S4E.Domain.deps.json
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\bin\Debug\net8.0\S4E.Domain.dll
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\bin\Debug\net8.0\S4E.Domain.pdb
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\obj\Debug\net8.0\S4E.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\obj\Debug\net8.0\S4E.Domain.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\obj\Debug\net8.0\S4E.Domain.AssemblyInfo.vb
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\obj\Debug\net8.0\S4E.Domain.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\obj\Debug\net8.0\S4E.Domain.dll
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\obj\Debug\net8.0\refint\S4E.Domain.dll
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\obj\Debug\net8.0\S4E.Domain.pdb
+C:\Users\Admin\Documents\.NET Projects\S4E_WebForm\S4E_WebForm\S4E-WebForm\S4E.Domain\obj\Debug\net8.0\ref\S4E.Domain.dll

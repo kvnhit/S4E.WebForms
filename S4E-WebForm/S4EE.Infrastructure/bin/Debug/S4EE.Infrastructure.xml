@@ -1,0 +1,33 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+S4EE.Infrastructure
+</name>
+</assembly>
+<members>
+<member name="T:S4EE.Infrastructure.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:S4EE.Infrastructure.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:S4EE.Infrastructure.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="M:S4EE.Infrastructure.DatabaseContext.GetConnection">
+ <summary>
+ Retorna uma instância de SqlConnection usando a string de conexão configurada no arquivo de configuração.
+ </summary>
+ <returns>Uma nova instância de SqlConnection.</returns>
+ <exception cref="T:System.InvalidOperationException">Lançada se a string de conexão não for encontrada.</exception>
+</member>
+</members>
+</doc>
